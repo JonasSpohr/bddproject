@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/projects/jarfiles/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/projects/jarfiles/cucumber-core-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/projects/jarfiles/cucumber-java-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/projects/jarfiles/cucumber-junit-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/projects/jarfiles/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/projects/jarfiles/cucumber-reporting-4.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/projects/jarfiles/gherkin-8.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/projects/jarfiles/junit-jupiter-api-5.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/projects/jarfiles/junit-jupiter-engine-5.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/projects/jarfiles/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="D:/projects/jarfiles/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
